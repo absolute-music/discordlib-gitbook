@@ -1,6 +1,7 @@
 # Table of contents
 
 * [discord.lib Official Documentation](README.md)
+* [package](https://npmjs.com/package/discord.lib)
 * [Change Logs](change-log.md)
 * [Credits](credits.md)
 
