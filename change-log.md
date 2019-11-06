@@ -1,8 +1,10 @@
 ---
-description: 'Current Version: 0.5.1'
+description: 'Current Version: 0.5.2'
 ---
 
 # Change Logs
+
+0.5.2: Deprecated musicClient: use the client version instead
 
 0.5.1: Error message updated
 

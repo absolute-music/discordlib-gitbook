@@ -11,7 +11,6 @@
 * [joinMessage](docs/joinmessage.md)
 * [Complete Examples](docs/complete-examples.md)
 * [leaveMessage](docs/leavemessage.md)
-* [musicClient](docs/musicclient.md)
 * [serverGreeting](docs/servergreeting.md)
 * [Attachments](docs/attachments.md)
 * [sharding](docs/sharding.md)
@@ -29,6 +28,7 @@
 
 ## Deprecated
 
+* [musicClient](deprecated/musicclient.md)
 * [userClient](deprecated/userclient.md)
 * [Webhook](deprecated/webhook.md)
 * [embed](deprecated/embed.md)
