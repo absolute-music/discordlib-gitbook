@@ -1,3 +1,10 @@
+---
+description: >-
+  A powerful discord bot making library to help you make discord bots. Super
+  easy, 100 percent discord api coverage, and more! Discord.lib also allows you
+  to interact with discord.js.
+---
+
 # Attachments
 
 Our package gives you a feature to send attachment. This doc shows you how to do it.

@@ -1,3 +1,10 @@
+---
+description: >-
+  A powerful discord bot making library to help you make discord bots. Super
+  easy, 100 percent discord api coverage, and more! Discord.lib also allows you
+  to interact with discord.js.
+---
+
 # bot activities
 
 You could use the dl.login way to set regular games, but you cannot do server count there. The client way is the only way to do that. And this tutorial is to show you how.
