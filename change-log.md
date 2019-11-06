@@ -1,5 +1,5 @@
 ---
-description: 'Current Version: 0.5.2'
+description: 'Current Version: 0.5.2-1'
 ---
 
 # Change Logs
