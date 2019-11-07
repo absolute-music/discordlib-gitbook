@@ -7,7 +7,7 @@ description: >-
 
 # announcements
 
-This allows you to send a webhook request to a webhook url from discord.
+This allows you to send a webhook request to a webhook url from discord. This send your announcement or message to the webhook when you start the bot that is made using this package.
 
 ### Parameters
 
