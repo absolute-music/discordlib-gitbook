@@ -19,7 +19,7 @@ This allows you to make your bot to start/stop typing in one or more specific ch
 
 ### Example
 
-```
+```javascript
 const dl = require("discord.lib")
 dl.startTyping("starttyping")
 dl.login("token", "Typing started!")
@@ -36,7 +36,7 @@ dl.login("token", "Typing started!")
 
 ### Example
 
-```
+```javascript
 const dl = require("discord.lib")
 dl.stopTyping("stoptyping", true)
 dl.login("token", "Typing started!")

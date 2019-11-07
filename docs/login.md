@@ -18,7 +18,7 @@ description: >-
 
 ### Example
 
-```
+```text
 let dl = require("discord.lib")
 dl.login("Token", "game")
 ```

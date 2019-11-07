@@ -23,14 +23,14 @@ For now, only member with ADMINISTRATOR permission could kick member. if you wan
 
 ### example for using discord.lib kick
 
-```
+```javascript
 const dl = require("discord.lib")
 dl.kick("A_kick")//usage will be A_kick @member#1234
 ```
 
 ### example for interacting with discord.lib.client
 
-```
+```javascript
 const dl = require("discord.lib")
 dl.client.on("message", msg => {
  if(msg.startsWith("kick")){

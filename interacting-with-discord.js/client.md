@@ -15,7 +15,7 @@ Using the client option of discord.lib will allow you to get the client of the b
 
 ## Get client
 
-```
+```text
 const dl = require("discord.lib")
 dl.client.on("message", message => {
     message.channel.send("I love discord.lib")
@@ -29,8 +29,10 @@ You could use everything in the events section of [this page](https://discord.js
 
 ### Example of using discord.lib client
 
-    const dl = require("discord.lib")
-    dl.client.on("ready", () => {
-     dl.client.user.setActivity(`I am serving ${client.guilds.size} server`)
-    })
+```text
+const dl = require("discord.lib")
+dl.client.on("ready", () => {
+ dl.client.user.setActivity(`I am serving ${client.guilds.size} server`)
+})
+```
 

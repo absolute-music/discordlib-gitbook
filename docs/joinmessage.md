@@ -16,7 +16,7 @@ description: >-
 
 ### Example
 
-```
+```text
 const dl = require("discord.lib");
 
 dl.joinMessage("633412217844269045", "Welcome!")

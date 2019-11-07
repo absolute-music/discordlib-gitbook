@@ -7,7 +7,7 @@ description: >-
 
 # Complete Examples
 
-```
+```text
 const dl = require("discord.lib");
 
 dl.sendMessage("A_help", "Help command!")

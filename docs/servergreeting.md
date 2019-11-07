@@ -17,7 +17,7 @@ You could greet the server owner when your bot was invited to a server using thi
 
 ### Example
 
-```
+```text
 const dl = require("discord.lib")
 dl.serverGreeting("Hi there!")
 ```

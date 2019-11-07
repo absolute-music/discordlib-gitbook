@@ -32,7 +32,7 @@ This function let the package download a example bot file with all code with fil
   </tbody>
 </table>### Example
 
-```
+```javascript
 const dl = require("discord.lib")
 dl.exampleBot("./")
 //will create a bot.js file with all code in it
