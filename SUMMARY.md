@@ -1,24 +1,24 @@
 # Table of contents
 
 * [discord.lib Official Documentation](README.md)
-* [package](https://npmjs.com/package/discord.lib)
 * [Change Logs](change-log.md)
 * [Credits](credits.md)
+* [package](https://npmjs.com/package/discord.lib)
 
-## Docs
+## classes
 
-* [message](docs/message.md)
-* [login](docs/login.md)
-* [joinMessage](docs/joinmessage.md)
-* [Complete Examples](docs/complete-examples.md)
-* [leaveMessage](docs/leavemessage.md)
-* [serverGreeting](docs/servergreeting.md)
-* [Attachments](docs/attachments.md)
-* [sharding](docs/sharding.md)
-* [Typings](docs/typings.md)
-* [exampleBot](docs/examplebot.md)
-* [kick](docs/kick.md)
-* [ban](docs/ban.md)
+* [message](classes/message.md)
+* [login](classes/login.md)
+* [joinMessage](classes/joinmessage.md)
+* [Complete Examples](classes/complete-examples.md)
+* [leaveMessage](classes/leavemessage.md)
+* [serverGreeting](classes/servergreeting.md)
+* [Attachments](classes/attachments.md)
+* [sharding](classes/sharding.md)
+* [Typings](classes/typings.md)
+* [exampleBot](classes/examplebot.md)
+* [kick](classes/kick.md)
+* [ban](classes/ban.md)
 
 ## Interacting with discord.js
 

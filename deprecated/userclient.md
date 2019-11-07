@@ -11,6 +11,8 @@ This feature is deprecated --&gt; [check this ](../interacting-with-discord.js/b
 
 ### Usage
 
-    const dl = require("discord.lib");
-    dl.login("token", `${dl.userClient()}`)//The game will be the usercount.
+```text
+const dl = require("discord.lib");
+dl.login("token", `${dl.userClient()}`)//The game will be the usercount.
+```
 

@@ -21,7 +21,7 @@ Our package gives you a feature to send attachment. This doc shows you how to do
 
 Example of not using buffer
 
-```
+```text
 const dl = require("discord.lib")
 dl.attachment("command", "https://example.com/image.png/ or ./path/to/your/file");
 dl.login("token", "I am the best bot!")
@@ -33,7 +33,7 @@ Example of using buffer
 You are require to specify an directory.
 {% endhint %}
 
-```
+```text
 const dl = require("discord.lib")
 dl.attachment("command", "./path/to/your/file.js", "buffer");
 dl.login("token", "I am the best bot!")

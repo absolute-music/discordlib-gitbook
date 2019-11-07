@@ -5,20 +5,23 @@ description: >-
   to interact with discord.js.
 ---
 
-# serverGreeting
+# login
 
-You could greet the server owner when your bot was invited to a server using this
+## How to get started?
 
-### Param
+### login
 
-| Parameter | Discription | Required |
+| Parameter | Description | Required |
 | :--- | :--- | :--- |
-| message | message to greet | yes |
+| discord bot token | to start the bot | yes |
+| game | set bot's game | no |
 
 ### Example
 
+```text
+let dl = require("discord.lib")
+dl.login("Token", "game")
 ```
-const dl = require("discord.lib")
-dl.serverGreeting("Hi there!")
-```
+
+
 

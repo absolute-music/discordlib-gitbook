@@ -20,7 +20,7 @@ You do not need to worry about opus-script since it is aready included with this
 
 ### Example
 
-```
+```text
 const dl = require("discord.lib")
 dl.musicClient("Music command Prefix", "Youtube Api key")
 ```

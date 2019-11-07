@@ -22,7 +22,7 @@ This allows you to shard your discord bot.
 
 On a new file, write this file down
 
-```
+```text
 const dl = require("discord.lib")
 dl.shardManager("./path/to/your/file.js", 2)
 ```
@@ -43,7 +43,9 @@ This send a message to all shards
 
 ### Example
 
-    const dl = require("discord.lib")
-    dl.shardManager("./path/to/your/file.js", 2)
-    dl.broadcastEval(`(${funcName})('${arg}')`);
+```text
+const dl = require("discord.lib")
+dl.shardManager("./path/to/your/file.js", 2)
+dl.broadcastEval(`(${funcName})('${arg}')`);
+```
 
