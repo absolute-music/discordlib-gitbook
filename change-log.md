@@ -7,6 +7,8 @@ description: >-
 
 # Change Logs
 
+0.5.3: Added discord webhook
+
 0.5.2: Deprecated musicClient: use the client version instead-they are exactly the same for the music syste for discord.js
 
 0.5.1: Error message updated
