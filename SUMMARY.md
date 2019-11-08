@@ -4,6 +4,7 @@
 * [Change Logs](change-log.md)
 * [Credits](credits.md)
 * [package](https://npmjs.com/package/discord.lib)
+* [Packages](packages.md)
 
 ## classes
 
