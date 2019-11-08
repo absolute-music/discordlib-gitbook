@@ -21,12 +21,12 @@
 * [ban](classes/ban.md)
 * [announcements](classes/announcements.md)
 
-## Interacting with discord.js
+## Interacting with discord.lib's client <a id="interacting-with-discord.lib-client"></a>
 
-* [client](interacting-with-discord.js/client.md)
-* [bot activities](interacting-with-discord.js/bot-activities.md)
-* [Do servercount in commands](interacting-with-discord.js/do-servercount-in-commands.md)
-* [Discord](interacting-with-discord.js/discord.md)
+* [client](interacting-with-discord.lib-client/client.md)
+* [bot activities](interacting-with-discord.lib-client/bot-activities.md)
+* [Do servercount in commands](interacting-with-discord.lib-client/do-servercount-in-commands.md)
+* [Discord](interacting-with-discord.lib-client/discord.md)
 
 ## Deprecated
 
