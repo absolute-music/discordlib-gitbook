@@ -14,7 +14,8 @@ This allows you to send a webhook request to a webhook url from discord. This se
 | Parameter | Description | Required |
 | :--- | :--- | :--- |
 | url | webhook url | yes |
-| message | message to send to the url | yes |
+| msg | message title to send | yes |
+| message | message body to send to the url | yes |
 
 ### Example
 
