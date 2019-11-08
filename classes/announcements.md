@@ -22,6 +22,6 @@ This allows you to send a webhook request to a webhook url from discord. This se
 ```javascript
 const dl = require("discord.lib")
 
-dl.announcements("webhookurl", "Title-no embeds!", "Description-no Embeds!")
+dl.webhookClient("webhookurl", "Title-no embeds!", "Description-no Embeds!")
 ```
 
