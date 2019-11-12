@@ -21,6 +21,7 @@
 * [kick](classes/kick.md)
 * [ban](classes/ban.md)
 * [webhookClient](classes/announcements.md)
+* [musicClient](classes/musicclient.md)
 
 ## Interacting with discord.lib's client <a id="interacting-with-discord.lib-client"></a>
 
@@ -31,7 +32,6 @@
 
 ## Deprecated
 
-* [musicClient](deprecated/musicclient.md)
 * [userClient](deprecated/userclient.md)
 * [Webhook](deprecated/webhook.md)
 * [embed](deprecated/embed.md)
