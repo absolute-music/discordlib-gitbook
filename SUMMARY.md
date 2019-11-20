@@ -21,7 +21,7 @@
 * [exampleBot](classes/examplebot.md)
 * [kick](classes/kick.md)
 * [ban](classes/ban.md)
-* [webhookClient](classes/announcements.md)
+* [webhookClient](classes/webhookclient.md)
 * [musicClient](classes/musicclient.md)
 
 ## Interacting with discord.lib's client <a id="iwdlc"></a>
