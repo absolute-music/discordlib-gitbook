@@ -24,12 +24,12 @@
 * [webhookClient](classes/announcements.md)
 * [musicClient](classes/musicclient.md)
 
-## Interacting with discord.lib's client <a id="interacting-with-discord.lib-client"></a>
+## Interacting with discord.lib's client <a id="iwdlc"></a>
 
-* [client](interacting-with-discord.lib-client/client.md)
-* [bot activities](interacting-with-discord.lib-client/bot-activities.md)
-* [Do servercount in commands](interacting-with-discord.lib-client/do-servercount-in-commands.md)
-* [Discord](interacting-with-discord.lib-client/discord.md)
+* [client](iwdlc/client.md)
+* [bot activities](iwdlc/bot-activities.md)
+* [Do servercount in commands](iwdlc/do-servercount-in-commands.md)
+* [Discord](iwdlc/discord.md)
 
 ## Deprecated
 
