@@ -31,6 +31,10 @@
 * [Do servercount in commands](iwdlc/do-servercount-in-commands.md)
 * [Discord](iwdlc/discord.md)
 
+## guides
+
+* [MusicClient Guide](guides/musicclient-guide.md)
+
 ## Deprecated
 
 * [userClient](deprecated/userclient.md)
