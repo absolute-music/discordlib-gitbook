@@ -29,12 +29,17 @@ This function let the package download a example bot file with all code with fil
       </td>
       <td style="text-align:left">yes</td>
     </tr>
+    <tr>
+      <td style="text-align:left">filename</td>
+      <td style="text-align:left">This will the the file name that will be downloaded</td>
+      <td style="text-align:left">yes</td>
+    </tr>
   </tbody>
 </table>### Example
 
 ```javascript
 const dl = require("discord.lib")
 dl.exampleBot("./")
-//will create a bot.js file with all code in it
+//will create a file with all code in it
 ```
 
