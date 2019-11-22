@@ -33,3 +33,7 @@ official documentation could be found [here](https://absolute-develop.gitbook.io
 
 We trust our user to do edit to this document. We will take it away if people are abusing it.
 
+## Trusted by
+
+![Coding Minds Academy](.gitbook/assets/download-1.png)
+
