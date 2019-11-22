@@ -7,5 +7,5 @@ description: >-
 
 # Premium Info
 
-You could get premium easily by adding the package [fort-api-js](https://npmjs.com/package/fort-api-js), A package made my me
+Our premium system needs a redeem code to use. You can get premium by attending my talk at CodingMinds Academy. Or you could contact me at discordlib@gmail.com 
 

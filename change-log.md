@@ -7,6 +7,10 @@ description: >-
 
 # Change Logs
 
+0.6.3: Make Webhook Client a premium function
+
+0.6.0: added premium redeem system
+
 0.5.12: Premium system now added
 
 0.5.7: new error system added, but console error still needed for login
