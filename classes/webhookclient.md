@@ -9,6 +9,10 @@ description: >-
 
 This allows you to send a webhook request to a webhook url from discord. This send your announcement or message to the webhook when you start the process.
 
+{% hint style="info" %}
+This is a premium only function only for people that listen to my speech at CodingMinds Academy
+{% endhint %}
+
 ### Parameters
 
 | Parameter | Description | Required |

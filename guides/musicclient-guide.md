@@ -17,7 +17,7 @@ require("node-opus or opusscript")
 ```
 
 {% hint style="info" %}
- You should probably install ffmpeg since ffmpeg-binaries from npm might cause error
+ You should probably install ffmpeg since ffmpeg-binaries from npm might cause error, This function will not work on online services
 {% endhint %}
 
 ## Install ffmpeg
