@@ -9,7 +9,7 @@ description: >-
 
 You can do servercount in commands by doing something like this:
 
-```text
+```javascript
 const dl = require("discord.lib")
 dl.client.on("message", msg => {
  if(msg.content === "servercount"){

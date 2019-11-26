@@ -19,9 +19,9 @@ description: >-
 
 ### Example
 
-```text
+```javascript
 let dl = require("discord.lib")
-dl.login("Token", "game")
+dl.login("Token", "game", "watching")// if type is not specified, playing will be the type
 ```
 
 

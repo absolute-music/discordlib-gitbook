@@ -27,7 +27,7 @@ This function requires Premium
 
 On a new file, write this file down
 
-```text
+```javascript
 const dl = require("discord.lib")
 dl.shardManager("./path/to/your/file.js", 2, broadcast eval)
 ```

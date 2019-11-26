@@ -16,7 +16,7 @@ description: >-
 
 ## Example
 
-```
+```javascript
 const dl = require("discord.lib");
 dl.sendMessage("help", "reply")
 dl.login("Token", "game")
