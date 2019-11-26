@@ -15,6 +15,7 @@ description: >-
 | :--- | :--- | :--- |
 | discord bot token | to start the bot | yes |
 | game | set bot's game | no |
+| typeofgame | type of bot's game | no |
 
 ### Example
 
